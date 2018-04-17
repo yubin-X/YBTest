@@ -1,0 +1,6 @@
+framework module YBTest {
+  umbrella header "YBTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
